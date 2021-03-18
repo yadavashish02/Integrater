@@ -17,7 +17,7 @@
         <b>ABOUT:
         </b>
         <![CDATA[
-        \nthis app is developed for mathematics 101 innovative project and it uses trapezoidal
+        \nthis app is developed for innovative project and it uses trapezoidal
         rule for approximate integration.\n
         \n\n\n\n]]>
         <b>Submission details:
@@ -26,7 +26,7 @@
         \n
         names:
         \n\t Ashish Yadav (2K20/B3/16)\n\t Gaurav Rohilla (2K20/B3/62)\n\n
-        submitted to: Prof. Satyabrata Adhikari\n\n
+        submitted to: \n\n
         educational institution: Delhi Technological University]]>
     </string>
     <string name="accuracy"><![CDATA[accuracy, 1<n<1000]]></string>
