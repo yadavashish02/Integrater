@@ -30,12 +30,12 @@ class MainActivity : AppCompatActivity() {
     fun calculate(a:Double, b:Double, n:Double):Double {
         val h:Double = (b-a)/n
         var p:Double = a
-        var jl:Double
+        var z:Double
         var sum = 0.0
         do {
             p += h
-            jl = fx(p)
-            sum +=jl
+            z = fx(p)
+            sum +=z
         } while (p<(b-h))
 
         return (h/2)*(fx(a)+2*sum + fx(b))
